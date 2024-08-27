@@ -1,0 +1,3 @@
+https://log-auditoria.apps-pruebas.credibanco.com/camel/api/getAuditComercios/11683913/CREARCOMERCIO
+
+https://my349096.crm.ondemand.com/sap/ap/ui/clogin?saml2=disabled&app.component=/SAP_UI_CT/Main/root.uiccwoc&rootWindow=X&redirectUrl=/sap/public/byd/runtime
